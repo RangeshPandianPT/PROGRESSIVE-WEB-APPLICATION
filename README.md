@@ -28,8 +28,15 @@
 ## 📸 UI Screenshots
 
 * Home Page
+![Image](https://github.com/user-attachments/assets/213391a7-b91e-413d-bd40-c91dd235f07f)
+
 * Product Details Page (Headphones)
+![Image](https://github.com/user-attachments/assets/7e2ade81-7ff0-432b-a7c6-ff5ccb62fca8)
+
 * Add to Cart Confirmation
+
+![Image](https://github.com/user-attachments/assets/ec0bf2c2-cc10-415a-83b3-a40e6f2ea1ca)
+
 
 *(See `/screenshots` folder for full-size images)*
 
