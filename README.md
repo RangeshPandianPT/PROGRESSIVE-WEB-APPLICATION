@@ -1,5 +1,19 @@
 # 🛍️ PROGRESSIVE WEB APPLICATION
 
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : MUZAMMIL AHMED 
+
+INTERN ID : CT04DG2827
+
+DOMAIN: WEB DEVELOPMENT 
+
+DURATION : 4 WEEKS 
+
+MENTOR : NEELA SANTHOS 
+
+---
+
 **ShopMate** is a modern and responsive Progressive Web App (PWA) designed for seamless online shopping. It combines intuitive user experience, offline capabilities, and push notifications to deliver a reliable and engaging shopping experience.
 
 ## 🚀 Features
